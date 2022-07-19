@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@400;500;700&display=swap");
+
+.background {
+    background: url("/img/dpad.jpg");
+    background-size: cover;
+}
+
+h1.text-center {
+    font-family: "Alegreya+SC";
+    font-variant: small-caps;
+    color: #0082ff;
+}
+
+h3 {
+    font-family: "Alegreya+SC";
+    font-variant: small-caps;
+}
+
+.nav-link:hover {
+    background-color: #62b3ff;
+    border-radius: 0.5rem;
+}
+
+.about_sjh {
+    color: #0082ff;
+}
